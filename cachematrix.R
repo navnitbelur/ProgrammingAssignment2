@@ -5,7 +5,7 @@
 
 ## makeCacheMatrix()
 ## creates a special vector of functions to get and set matrix values
-## and to 
+## and to set and get the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
     
